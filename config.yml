@@ -1,0 +1,18 @@
+
+repo_url: https://fdroid-repo.calyxinstitute.org/fdroid/repo
+repo_name: The Calyx Institute
+repo_description: |
+  This is a repository of apps to be used with CalyxOS. Applications
+  in this repository are either official binaries built by the
+  original application developers, or are binaries built from source
+  by the developers of calyxos.org using the tools on
+  https://gitlab.com/fdroid.
+
+archive_older: 2
+archive_url: https://fdroid-repo.calyxinstitute.org/fdroid/
+archive_name:  The Calyx Institute Archive
+archive_description: |
+  Archived apps that are no longer available in the main repo.
+
+make_current_version_link: False
+update_stats: True
