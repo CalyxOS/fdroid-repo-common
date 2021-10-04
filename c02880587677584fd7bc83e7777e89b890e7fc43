@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5c9fd84_218fe6ff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-10-04T13:31:31Z",
+      "side": 1,
+      "message": "Thoughts?\n\nWe\u0027d have a new URL with \u0027fdroid-repo-common\u0027 in it as discussed, and that way we can leave this existing repo as-is untouched for old installs.",
+      "revId": "c02880587677584fd7bc83e7777e89b890e7fc43",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c3a914c9_f20a04dd",
+        "filename": "config.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-10-04T13:31:31Z",
+      "side": 1,
+      "message": "I was thinking maybe we leave this repo alone, and instead start over here.",
+      "revId": "c02880587677584fd7bc83e7777e89b890e7fc43",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bd0bfa45_c4b0f319",
+        "filename": "config.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-10-04T13:31:31Z",
+      "side": 1,
+      "message": "Not currently setup AFAIK.",
+      "revId": "c02880587677584fd7bc83e7777e89b890e7fc43",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
